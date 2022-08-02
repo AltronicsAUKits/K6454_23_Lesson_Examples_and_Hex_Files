@@ -1,0 +1,8 @@
+Product Page Link
+https://www.altronics.com.au/p/z6454-stem-microbit-mini-smart-robot-car-v2.0/
+
+MakeCode Workspace Link
+https://makecode.microbit.org/#
+
+Required Github repositories for this kit, added through makecode extensions
+https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426
