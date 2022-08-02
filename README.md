@@ -1,4 +1,4 @@
-# Altronics K6454 23 Example Lessons + 23 Example .hex projects
+# Altronics Z6454 23 Example Lessons + 23 Example .hex projects
 Altronics Z6454 Smart Robot v2.0 - power by micro:bit
 
 ## Useful Web Links
