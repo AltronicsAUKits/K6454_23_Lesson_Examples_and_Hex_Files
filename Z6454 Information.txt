@@ -1,0 +1,16 @@
+A MakeCode package for use with Altronics Z6454 Smart Robot Car V2 - by Keyestudio KS0426
+
+Product Page https://www.altronics.com.au/p/z6454-stem-microbit-mini-smart-robot-car-v2.0/
+
+MakeCode URL Platform https://makecode.microbit.org/#editor
+
+Android App https://play.google.com/store/apps/details?id=com.samsung.microbit&hl=en&gl=US
+
+Apple Device App https://apps.apple.com/au/app/micro-bit/id1092687276
+
+MakeCode Offline PC App https://makecode.microbit.org/offline-app
+
+Required Github repositories for this kit, added through makecode extensions
+https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426
+
+Open this page at https://github.com/AltronicsAUKits/K6454_23_Lesson_Examples_and_Hex_Files/
