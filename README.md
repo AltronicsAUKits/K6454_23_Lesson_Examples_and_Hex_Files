@@ -16,7 +16,7 @@ A MakeCode package for use with Altronics Z6454 Smart Robot Car V2 - by Keyestud
 
 * MakeCode Extension Repository https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426
 
-* Open this page at [https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426_BT/](https://github.com/AltronicsAUKits/Z6454-Robot-Kit-v2_KS0426_BT/)
+* Open this page at [https://github.com/AltronicsAUKits/K6454_23_Lesson_Examples_and_Hex_Files/](https://github.com/AltronicsAUKits/K6454_23_Lesson_Examples_and_Hex_Files)
 
 ## Example Lessons in this Repository are as follow.
 Step by Step instructions & 23 Example .hex codes for use with the micro:bit App or MakeCode Website
